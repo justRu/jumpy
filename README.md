@@ -2,6 +2,8 @@
 
 A Visual Studio extension that creates dynamic hotkeys to jump around editor's visible text.
 
+Inspired by [Jumpy](https://atom.io/packages/jumpy) plugin for Atom and [AceJump](https://github.com/johnlindquist/AceJump) extension for Visual Studio.
+
 ## Hot to use
 
 1. Press <kbd>LSHIFT + RSHIFT</kbd>
